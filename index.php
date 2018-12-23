@@ -3,7 +3,7 @@ echo "
 <html> 
 <body background='download.jpg' style='background-size:cover;
 			background-attachment: fixed;'>
-<center>Assalamu'alaikum Warahmatullahi Wabarakatuh
+<center><h2 style='margin-top:200px;'>Assalamu'alaikum Warahmatullahi Wabarakatuh</h2>
  <table border=1 style='padding:2;margin-top:70px;'>
   <tr>
   <td>

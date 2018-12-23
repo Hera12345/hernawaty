@@ -1,6 +1,6 @@
 <?php
 echo "<center>Assalamu'alaikum Warahmatullahi Wabarakatuh
- <br><table border=1>
+ <table border=1 padding=2>
   <tr>
   <td>
   Nim 

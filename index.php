@@ -1,3 +1,3 @@
 <?php
-echo "hera";
+echo "Assalamu'alaikum Warahmatullahi Wabarakatuh";
 ?>

@@ -1,5 +1,8 @@
 <?php
-echo "<center>Assalamu'alaikum Warahmatullahi Wabarakatuh
+echo "
+<html> 
+<body background='bg.jpg'>
+<center>Assalamu'alaikum Warahmatullahi Wabarakatuh
  <table border=1 style='padding:2;margin-top:20px;'>
   <tr>
   <td>
@@ -18,5 +21,7 @@ echo "<center>Assalamu'alaikum Warahmatullahi Wabarakatuh
     </td>
   </tr>
   </table>
-  </center>";
+  </center>
+  </body>
+  </html>";
 ?>

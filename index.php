@@ -1,6 +1,6 @@
 <?php
-echo "Assalamu'alaikum Warahmatullahi Wabarakatuh
-<table>
+echo "<center>Assalamu'alaikum Warahmatullahi Wabarakatuh
+<table border=1>
   <tr>
   <td>
   Nim 
@@ -17,5 +17,6 @@ echo "Assalamu'alaikum Warahmatullahi Wabarakatuh
     Hernawaty
     </td>
   </tr>
-  </table>";
+  </table>
+  </center>";
 ?>

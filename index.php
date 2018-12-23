@@ -1,7 +1,7 @@
 <?php
 echo "
 <html> 
-<body background='bg.jpg'>
+<body background='download.jpg'>
 <center>Assalamu'alaikum Warahmatullahi Wabarakatuh
  <table border=1 style='padding:2;margin-top:20px;'>
   <tr>

@@ -1,3 +1,21 @@
 <?php
-echo "Assalamu'alaikum Warahmatullahi Wabarakatuh";
+echo "Assalamu'alaikum Warahmatullahi Wabarakatuh
+<table>
+  <tr>
+  <td>
+  Nim 
+  </td>
+  <td>
+  1215280231
+  </td>
+  </tr>
+  <tr>
+    <td>
+    Nama
+    </td>
+    <td>
+    Hernawaty
+    </td>
+  </tr>
+  </table>";
 ?>

@@ -4,7 +4,7 @@ echo "
 <body background='download.jpg' style='background-size:cover;
 			background-attachment: fixed;'>
 <center>Assalamu'alaikum Warahmatullahi Wabarakatuh
- <table border=1 style='padding:2;margin-top:20px;'>
+ <table border=1 style='padding:2;margin-top:70px;'>
   <tr>
   <td>
   Nim 
